@@ -46,7 +46,7 @@ For example, in forecasting the price of Bitcoin, your data could be the histori
 
 ## Exercises
 
-- [] Does scaling the data help for univariate/multivariate data? (e.g. getting all of the values between 0 & 1)
+[ ] - Does scaling the data help for univariate/multivariate data? (e.g. getting all of the values between 0 & 1)
 - [] Try doing this for a univariate model (e.g. model_1) and a multivariate model (e.g. model_6) and see if it effects model training or evaluation results.
 - [] Get the most up to date data on Bitcoin, train a model & see how it goes (our data goes up to May 18 2021).
 You can download the Bitcoin historical data for free from coindesk.com/price/bitcoin and clicking "Export Data" -> "CSV".
